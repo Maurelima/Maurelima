@@ -1,4 +1,5 @@
 <a href='https://www.linkedin.com/in/maurelima/'>
+  <img src="https://github.com/Maurelima/Maurelima/blob/master/assets/h68x0up43hmknl5tjcww.jpg?raw=true" height='200' widht='800' alt="Marco Lima" />
   <img src="https://github.com/Maurelima/Maurelima/blob/master/assets/wp7664490.jpg?raw=true" height='200' widht='800' alt="Marco Lima" />
 </a>
 
