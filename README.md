@@ -1,6 +1,5 @@
 <a href='https://www.linkedin.com/in/maurelima/'>
-  <img src="https://github.com/Maurelima/Maurelima/blob/master/assets/h68x0up43hmknl5tjcww.jpg?raw=true" height='200' widht='800' alt="Marco Lima" />
-  <img src="https://github.com/Maurelima/Maurelima/blob/master/assets/5u2lug9m32f41.png?raw=true" height='200' widht='800' alt="Marco Lima" />
+  <img src="https://github.com/Maurelima/Maurelima/blob/master/assets/h68x0up43hmknl5tjcww.jpg?raw=true" height='400' widht='800' alt="Marco Lima" />
 </a>
 
 ## Welcome! My name is Marco Lima 🤝
