@@ -10,6 +10,6 @@
 - 🧰 I'm currently working at Konvix Tecnologia
 - ⌨️ I use daily: `ReactJS`, `NodeJs`, `Typescript`, `AdonisJs`
 - 🏡 I'm working from home
-- 📚 I love read
+- 📚 In Love with Clean Code by Robert C. Martin (and even more so for my fiancée 💘)
 
 - 📫 Reach me: [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maurelima/)
