@@ -7,7 +7,7 @@
 
 
 
-- 🏦 I'm currently working at Konvix Tecnologia
+- 🧰 I'm currently working at Konvix Tecnologia
 - ⌨️ I use daily: `ReactJS`, `NodeJs`, `Typescript`, `AdonisJs`
 - 🏡 I'm working from home
 - 📚 I love read
